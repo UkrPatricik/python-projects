@@ -1,6 +1,4 @@
-import sys
-print(sys.executable)
-
+print ("welcome to my world")1+1
 print("Simple Calculator")
 
 num1 = float(input("Enter first number: "))
