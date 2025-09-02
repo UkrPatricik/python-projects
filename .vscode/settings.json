@@ -1,0 +1,6 @@
+{
+  "code-runner.executorMap": {
+    "python": "/Users/patricklongfield/python-projects/.venv/bin/python3 -u"
+  },
+  "code-runner.clearPreviousOutput": true
+}
