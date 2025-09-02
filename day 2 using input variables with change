@@ -1,0 +1,6 @@
+# this is an example of using input variables
+name = input("What is your name? ")
+age = input("How old are you? ")
+print("My name is", name)
+print("I am", age, "years old.")
+print("Congratulations", name, "on making it to", age, "!")
