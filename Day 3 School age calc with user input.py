@@ -17,4 +17,3 @@ try:
     print(message)
 except ValueError:
     print("Invalid age entered. Please enter a number.")
-    
