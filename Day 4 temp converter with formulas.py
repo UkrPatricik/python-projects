@@ -23,6 +23,7 @@ while True:
             print("Invalid number, try again.\n")
 
     elif choice == "f→c" or choice == "f":
+        print (f"Formula "f"F→C: (F - 32) × 5/9")
         value = input("Enter temperature in Fahrenheit: ")
         try:
             f = float(value)
